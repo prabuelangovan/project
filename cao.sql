@@ -1,6 +1,11 @@
+dhasgdhkbasjkadsjbf
+sdasdasdas
+lkasjdklasndnasm,dkjn
+
+
 CREATE TABLE  "AGENTS" 
    (	
-    "AGENT_CODE" CHAR(6) NOT NULL PRIMARY KEY, 
+  
 	"AGENT_NAME" CHAR(40), 
 	"WORKING_AREA" CHAR(35), 
 	"COMMISSION" NUMBER(10,2), 
@@ -8,7 +13,7 @@ CREATE TABLE  "AGENTS"
 	"COUNTRY" VARCHAR2(25) 
 	 );
 
-
+sakldlkasndknasldmdas
 
 INSERT INTO AGENTS VALUES ('A007', 'Ramasundar', 'Bangalore', '0.15', '077-25814763', '');
 INSERT INTO AGENTS VALUES ('A003', 'Alex ', 'London', '0.13', '075-12458969', '');
