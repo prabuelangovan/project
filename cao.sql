@@ -1,8 +1,3 @@
-dhasgdhkbasjkadsjbf
-sdasdasdas
-lkasjdklasndnasm,dkjn
-
-
 CREATE TABLE  "AGENTS" 
    (	
   
@@ -12,8 +7,6 @@ CREATE TABLE  "AGENTS"
 	"PHONE_NO" CHAR(15), 
 	"COUNTRY" VARCHAR2(25) 
 	 );
-
-sakldlkasndknasldmdas
 
 INSERT INTO AGENTS VALUES ('A007', 'Ramasundar', 'Bangalore', '0.15', '077-25814763', '');
 INSERT INTO AGENTS VALUES ('A003', 'Alex ', 'London', '0.13', '075-12458969', '');
@@ -117,6 +110,32 @@ INSERT INTO ORDERS VALUES('200128', '3500.00', '1500.00', '07/20/2008', 'C00009'
 INSERT INTO ORDERS VALUES('200135', '2000.00', '800.00', '09/16/2008', 'C00007', 'A010', 'SOD');
 INSERT INTO ORDERS VALUES('200131', '900.00', '150.00', '08/26/2008', 'C00012', 'A012', 'SOD');
 INSERT INTO ORDERS VALUES('200133', '1200.00', '400.00', '06/29/2008', 'C00009', 'A002', 'SOD');
-
-
 commit;
+
+Happy new year asdknasndaln
+sd
+ad
+sa
+da
+sdas
+d
+asd
+as
+das
+fdfdsfasd
+as
+das
+das
+d
+asdgsdf
+asd
+as
+fdss
+asd
+asd
+gfadsda
+sd
+asd
+asd
+ad
+asd
